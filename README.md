@@ -2,13 +2,17 @@
 By Min Hoo Lee (March - May 2015)
 
 ## Project Description
-The objective of this simple orb shooter game is to teach how the
-Hue, Saturation, and Value (HSV) colorscheme works. 
+The objective of this orb shooter game is to teach the
+Hue, Saturation, and Value (HSV) colorscheme. 
 
 The game presents a series of orbs at the top of the screen which possess 
 different HSV color values. The player must control the color of their 
 shooter's orb to approximate the color of one of the top orbs and then these 
 two orbs must collide to earn points. Beware, there are limited lives!
+
+Apologies for having all 1600+ lines of code in one file; I originally kept
+this as a Github Gist for some reason, so it was in one file. Also,
+I wrote this as a first-year programmer, so the quality is pretty bad.
 
 Read the tutorial for more information on HSV and how to play.
 
